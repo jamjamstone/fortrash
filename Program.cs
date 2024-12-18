@@ -8,6 +8,7 @@
             Console.WriteLine("sdfasdfasdfasdfasf");
             Console.WriteLine("sdfasdfasdfasfd");
             Console.WriteLine("새가지다!");
+            Console.WriteLine("addd moerereerer");
         }
     }
 }
